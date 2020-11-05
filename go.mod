@@ -1,4 +1,4 @@
-module github.com/waynr/image-generator
+module github.com/digitalocean/image-generator
 
 go 1.13
 
